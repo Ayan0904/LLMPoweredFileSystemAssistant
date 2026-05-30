@@ -1,0 +1,23 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: 555-0192 | Location: New York, NY
+
+OBJECTIVE
+Highly motivated Software Engineer looking to leverage extensive backend experience.
+
+TECHNICAL SKILLS
+* Programming Languages: Python, Java, SQL, C++
+* Frameworks: Django, FastAPI, Flask, Spring Boot
+* Tools & Databases: Git, Docker, PostgreSQL, AWS
+
+EXPERIENCE
+Senior Backend Developer | TechSolutions Inc. (2022 - Present)
+* Built scalable RESTful APIs using Python and FastAPI, improving response times by 30%.
+* Designed and maintained PostgreSQL database schemas for high-traffic applications.
+* Led a team of 4 junior developers and managed agile sprint planning.
+
+Software Engineer | DevCorp (2020 - 2022)
+* Developed core features using Python and Django for an e-commerce platform.
+* Optimized database queries, cutting loading speeds in half.
+
+EDUCATION
+B.S. in Computer Science | New York University

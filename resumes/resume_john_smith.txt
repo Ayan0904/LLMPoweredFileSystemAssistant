@@ -1,0 +1,22 @@
+JANE SMITH
+Email: jane.smith@email.com | Phone: 555-0143 | San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4+ years of experience extracting actionable insights from massive datasets.
+
+CORE COMPETENCIES
+* Machine Learning: Linear Regression, Decision Trees, Random Forests, Neural Networks
+* Languages & Tools: Python, R, SQL, Tableau, Pandas, NumPy, Scikit-Learn
+* Cloud Platforms: Google Cloud Platform (GCP), Snowflake
+
+WORK EXPERIENCE
+Data Scientist | Alpha Analytics (2023 - Present)
+* Developed predictive models in Python using Scikit-Learn to forecast customer churn.
+* Automated ETL pipelines, saving the data engineering team 10 hours per week.
+
+Data Analyst | DataInsights Co. (2021 - 2023)
+* Created interactive Tableau dashboards for executive stakeholders.
+* Conducted A/B testing on marketing campaigns, driving a 12% increase in conversions.
+
+EDUCATION
+M.S. in Data Science | Stanford University
